@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://amix.pro/sitemap.xml
